@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/sumitsidharth/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sumitsidharth/LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sumitsidharth/LeetCode-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 ## Quicksort
 |  |
 | ------- |
@@ -53,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sumitsidharth/LeetCode-/tree/master/0074-search-a-2d-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
