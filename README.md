@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+| [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
