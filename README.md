@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumitsidharth/LeetCode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sumitsidharth/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -78,9 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
