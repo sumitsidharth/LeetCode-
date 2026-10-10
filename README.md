@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumitsidharth/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sumitsidharth/LeetCode-/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
@@ -97,4 +99,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
