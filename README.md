@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumitsidharth/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sumitsidharth/LeetCode-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumitsidharth/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sumitsidharth/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/sumitsidharth/LeetCode-/tree/master/0443-string-compression) |
 ## Array
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
