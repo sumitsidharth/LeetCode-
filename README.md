@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/sumitsidharth/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sumitsidharth/LeetCode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sumitsidharth/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sumitsidharth/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sumitsidharth/LeetCode-/tree/master/0443-string-compression) |
 ## Sorting
