@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0922-sort-array-by-parity-ii](https://github.com/sumitsidharth/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 | [0922-sort-array-by-parity-ii](https://github.com/sumitsidharth/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
