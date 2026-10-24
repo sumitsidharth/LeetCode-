@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sumitsidharth/LeetCode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sumitsidharth/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/sumitsidharth/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitsidharth/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sumitsidharth/LeetCode-/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/sumitsidharth/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sumitsidharth/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sumitsidharth/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitsidharth/LeetCode-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/sumitsidharth/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0922-sort-array-by-parity-ii](https://github.com/sumitsidharth/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
