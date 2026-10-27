@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumitsidharth/LeetCode-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sumitsidharth/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/sumitsidharth/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sumitsidharth/LeetCode-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitsidharth/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sumitsidharth/LeetCode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sumitsidharth/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sumitsidharth/LeetCode-/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sumitsidharth/LeetCode-/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/sumitsidharth/LeetCode-/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/sumitsidharth/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sumitsidharth/LeetCode-/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/sumitsidharth/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
