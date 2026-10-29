@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sumitsidharth/LeetCode-/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/sumitsidharth/LeetCode-/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitsidharth/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sumitsidharth/LeetCode-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
