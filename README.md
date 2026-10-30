@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sumitsidharth/LeetCode-/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitsidharth/LeetCode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sumitsidharth/LeetCode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sumitsidharth/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sumitsidharth/LeetCode-/tree/master/0075-sort-colors) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitsidharth/LeetCode-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sumitsidharth/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sumitsidharth/LeetCode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitsidharth/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
