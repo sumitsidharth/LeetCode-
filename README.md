@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sumitsidharth/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sumitsidharth/LeetCode-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sumitsidharth/LeetCode-/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/sumitsidharth/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/sumitsidharth/LeetCode-/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitsidharth/LeetCode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sumitsidharth/LeetCode-/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sumitsidharth/LeetCode-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
